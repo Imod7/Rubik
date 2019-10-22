@@ -36,6 +36,11 @@ back_side = [[18, 19, 20],
              [26, 25, 24],
              [24, 21, 18]]
 
+
+####################################
+# IDEAS on the Cube's representation
+####################################
+
 # represent the layers of the cube ???
 bottom = {'f_l_corner' : 'wog', 
           'f_r_corner' : 'obw', 
